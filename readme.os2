@@ -1,0 +1,16 @@
+This is the OS/2 port of ABC to MIDI, a suite of command-line programs made
+to handle MIDI file conversion to-from ABC format.
+
+To learn how the programs work and what they're for, consult the original documentation
+included into this same package.
+
+The executables are into the OS2 subdirectory: you should need only these files 
+to start working. Doc\ and samples\ are useful places, too.
+
+You of course won't need the sources, which I am keeping for completeness.
+
+Have fun with ABC typesetting! And don't forget to drop me a note if you please.
+
+Mentore Siesto
+Pisa, Italy
+mentore.siesto@alice.it
